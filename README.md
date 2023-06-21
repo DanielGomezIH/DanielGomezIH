@@ -15,6 +15,9 @@ const thai = {
  challenge: "I am learning Git & Github, next I'll be learning JS"
 }
 ```
+### Find me around the web 🌎:
+- Get in touch with me through <a href="https://www.linkedin.com/in/gomezdanielivan/">LinkedIn</a> 💼
+
 
 <img src="https://media0.giphy.com/media/Eorh7nNnUp8YIkUghO/giphy.gif" width="60"> <em><b>I enjoy learn about new technologies</b> and most importanttly <b>to learn from people!</b> :)</em>
 
