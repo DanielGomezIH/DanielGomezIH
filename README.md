@@ -8,7 +8,8 @@
 const thai = {
   pronouns: "he" | "him",
   code: [HTML, CSS],
-  tools: [Styled-Components],
+  tools: [Styled-Components, Web Responsive Design],
+  Languages: Native Spanish and intermediate English,
   techCommunities: {
                         mentor: "Fernando Herrera"
                       },
