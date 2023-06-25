@@ -5,7 +5,7 @@
  ### <img src="https://media2.giphy.com/media/dNbYAgjq4Y1HHgvSCH/giphy.gif" width="50"> A little about me...
 
  ```javascript
-const thai = {
+const Daniel = {
   pronouns: "he" | "him",
   code: [HTML, CSS],
   tools: [Styled-Components, Web Responsive Design],
