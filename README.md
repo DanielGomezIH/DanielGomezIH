@@ -1,4 +1,4 @@
-
+ 
  ### Hi, I'm Daniel Gómez  👋
 ![Daniel-Gomez-Banner-Github](https://github.com/DanielGomezIH/DanielGomezIH/assets/127032062/0bc3f7f8-9a7f-485b-a8ca-6c1560aab501)
 
@@ -13,7 +13,7 @@ const Daniel = {
   techCommunities: {
                         mentor: "Fernando Herrera"
                       },
- challenge: "I am learning Git & Github, next I'll be learning JS"
+ challenge: "I am learning TS, next I'll be learning SOLID & Clean Code"
 }
 ```
 ### Find me around the web 🌎:
