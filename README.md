@@ -6,14 +6,13 @@
 
  ```javascript
 const Daniel = {
-  pronouns: "he" | "him",
   code: [HTML, CSS],
-  tools: [Styled-Components, Web Responsive Design],
-  Languages: Native Spanish and intermediate English,
+  tools: [React, PostgreSQL, TypeScript, Git & Github, Tailwind],
+  Languages: Native Spanish and intermediate English ,
   techCommunities: {
-                        mentor: "Fernando Herrera"
+                    mentor: "Fernando Herrera"
                       },
- challenge: "I am learning TS, next I'll be learning SOLID & Clean Code"
+ challenge: "I am learning React, next I'll be learning React Native"
 }
 ```
 ### Find me around the web 🌎:
