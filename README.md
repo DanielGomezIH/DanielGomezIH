@@ -11,12 +11,20 @@ I quickly learn from others and step up when required, demonstrating a proactive
 
 **It's a pleasure to have you here! Let's create together!** 🚀
 
-- ⭐ Github Star ⭐
-- 📲 Mobile Developer
-- 🎥 Teaching app development on [YouTube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-- ✏️ Sharing knowledge at [CursoKotlin](https://cursokotlin.com)
-- 📗 Author of the book [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creator of [AppCademy](https://appcademy.dev)
+### Education
+
+- **English B2 – Upper Intermediate at Universidad Nacional de Colombia** 🌍
+- Fronted Development at Devtalles 🛠️
+- Sound Production Technologist at Corporación Universitaria UNITEC 🔈
+
+### Main skills
+
+- React
+- React Native
+- Git - GitHub & GitLab
+- Typescript
+- Next.js
+- PostgreSQL
 
 ## Featured Projects
 
@@ -26,11 +34,11 @@ I quickly learn from others and step up when required, demonstrating a proactive
       <h3 align="center">Savebille</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-          <img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico Android">
+          <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/Savebille_ke6hgj.png" width="400" alt="Savebille - [Finance, SaaS]">
         </a>
         <p>
           <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/SOURCE-3da5e6?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong>. Este curso es ideal para quienes no tienen conocimientos previos. Es un curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -41,11 +49,11 @@ I quickly learn from others and step up when required, demonstrating a proactive
       <h3 align="center">Taskify</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-          <img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM">
+          <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/taskify_2_tdnrrk.png" width="400" alt="Taskify - [Organization, SaaS]">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/DanielGomezIH/react-taskify" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE-3de651?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, dividido por ramas, aprenderás a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing, y mucho más.</p>
@@ -60,11 +68,11 @@ I quickly learn from others and step up when required, demonstrating a proactive
       <h3 align="center">Calendary</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-          <img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android">
+          <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/calendary_wmbfze.png" width="400" alt="Calendary - [Organization, SaaS]">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/DanielGomezIH/react-calendar-app" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE-ba8ee6?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong>. Este curso se centra en las <strong>buenas prácticas, arquitectura y testing</strong>. Es un curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
@@ -72,14 +80,14 @@ I quickly learn from others and step up when required, demonstrating a proactive
     </td>
    
    <td width="50%">
-      <h3 align="center">ScreenStream</h3>
+      <h3 align="center">Screen Stream</h3>
       <div align="center">
         <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-          <img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform">
+          <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/Screen_Steam_wfgsgk.png" width="400" height="200" alt="Screen Stream - [Streaming, SaaS]">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-            <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/DanielGomezIH/react-native-movies-app" target="_blank">
+            <img src="https://img.shields.io/badge/SOURCE-ff8e52?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong>. En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Es un curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
