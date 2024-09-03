@@ -33,12 +33,12 @@ I quickly learn from others and step up when required, demonstrating a proactive
     <td width="50%">
       <h3 align="center">Savebille</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+        <a href="https://savebille.com" target="_blank">
           <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/Savebille_ke6hgj.png" width="400" alt="Savebille - [Finance, SaaS]">
         </a>
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-            <img src="https://img.shields.io/badge/SOURCE-3da5e6?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://savebille.com" target="_blank">
+            <img src="https://img.shields.io/badge/WEB-3da5e6?style=for-the-badge">
           </a>
         </p>
         <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong>. Este curso es ideal para quienes no tienen conocimientos previos. Es un curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -48,7 +48,7 @@ I quickly learn from others and step up when required, demonstrating a proactive
    <td width="50%">
       <h3 align="center">Taskify</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+        <a href="https://github.com/DanielGomezIH/react-taskify" target="_blank">
           <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/taskify_2_tdnrrk.png" width="400" alt="Taskify - [Organization, SaaS]">
         </a>
         <p>
@@ -67,12 +67,15 @@ I quickly learn from others and step up when required, demonstrating a proactive
     <td width="50%">
       <h3 align="center">Calendary</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+        <a href="https://calendary.cloud/" target="_blank">
           <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/calendary_wmbfze.png" width="400" alt="Calendary - [Organization, SaaS]">
         </a>
         <p>
           <a href="https://github.com/DanielGomezIH/react-calendar-app" target="_blank">
             <img src="https://img.shields.io/badge/SOURCE-ba8ee6?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://github.com/DanielGomezIH/react-calendar-app" target="_blank">
+            <img src="https://img.shields.io/badge/WEB-ba8ee6?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong>. Este curso se centra en las <strong>buenas prácticas, arquitectura y testing</strong>. Es un curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
@@ -82,7 +85,7 @@ I quickly learn from others and step up when required, demonstrating a proactive
    <td width="50%">
       <h3 align="center">Screen Stream</h3>
       <div align="center">
-        <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+        <a href="https://github.com/DanielGomezIH/react-native-movies-app" target="_blank">
           <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/Screen_Steam_wfgsgk.png" width="400" height="200" alt="Screen Stream - [Streaming, SaaS]">
         </a>
         <p>
