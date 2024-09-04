@@ -86,7 +86,7 @@ I quickly learn from others and step up when required, demonstrating a proactive
       <h3 align="center" style="font-size: 1.5em; margin-bottom: 20px;">Screen Stream</h3>
       <div align="center">
         <a href="https://github.com/DanielGomezIH/react-native-movies-app" target="_blank">
-          <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/Screen_Steam_wfgsgk.png" width="400" height="200" alt="Screen Stream - [Streaming, SaaS]" style="border-radius: 10px;">
+          <img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725393406/README/Screen_Steam_wfgsgk.png" width="400"  alt="Screen Stream - [Streaming, SaaS]" style="border-radius: 10px;">
         </a>
         <p style="margin-top: 20px;">
           <a href="https://github.com/DanielGomezIH/react-native-movies-app" target="_blank">
