@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1725377344/README/Banner_Black_d3q9ix.png" alt="Banner">
+<img src="https://res.cloudinary.com/dvkrb4ifg/image/upload/v1730242721/Banner_Black_qpbalr.png" alt="Banner">
 <div align="center">
   <h1 align="center">Hi there! 👋</h1>
 </div>
